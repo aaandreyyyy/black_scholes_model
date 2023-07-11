@@ -1,3 +1,0 @@
-/Users/andrejaksenov/CLionProjects/black_scholes/cmake-build-debug/CMakeFiles/black_scholes.dir
-/Users/andrejaksenov/CLionProjects/black_scholes/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/andrejaksenov/CLionProjects/black_scholes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
