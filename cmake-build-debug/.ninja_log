@@ -1,0 +1,10 @@
+# ninja log v5
+496	575	1689101517449696562	black_scholes	b8893055ca932835
+1	496	1689101517368751278	CMakeFiles/black_scholes.dir/main.cpp.o	e6a9a5063b43cb40
+2	234	1689101517100506591	CMakeFiles/black_scholes.dir/OptionsPricingModel.cpp.o	bc383099523fb42f
+1	254	1689101517126966520	CMakeFiles/black_scholes.dir/BlackScholes.cpp.o	9e9d7e92f8b31cf0
+0	63	1689101615978509772	build.ninja	da65891beba67a6a
+1	178	1689101616160763616	CMakeFiles/black_scholes.dir/options_pricing_model.cpp.o	9ada184ae98792c3
+1	193	1689101616178503718	CMakeFiles/black_scholes.dir/black_scholes.cpp.o	8bd02232dee2da49
+1	423	1689101616407689181	CMakeFiles/black_scholes.dir/main.cpp.o	e6a9a5063b43cb40
+423	464	1689101616450159014	black_scholes	874fd8fd08ef1d25
